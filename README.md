@@ -1,4 +1,4 @@
-# Hello, I'm NealldeWaal 👋
+# Hello, I'm Neall de Waal 👋
 
 Welcome to my GitHub profile! I'm an **Industrial Engineer** passionate about building great software, optimizing systems, and exploring the intersection of engineering and technology.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an **Industrial Engineer** passionate about bu
 I'm a developer with an engineering mindset who loves solving complex problems and learning new technologies. My background in Industrial Engineering drives my approach to code quality, efficiency, and scalability. I'm committed to contributing to open-source projects and staying at the forefront of modern development practices.
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Golang
+- **Languages:** Golang, 
 - **Specialties:** Web Development, System Design, Process Optimization
 - **Learning:** AI Integration in Software Projects
 
@@ -29,5 +29,3 @@ I'd love to connect and collaborate on projects! Feel free to reach out:
 - Have a project idea? Open an issue or start a discussion!
 
 ---
-
-_Last updated: 2026-04-21_ | *Striving to build better code, one project at a time.*
